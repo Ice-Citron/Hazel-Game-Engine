@@ -15,7 +15,8 @@ My friends and I originally intended this as our IB CAS project.
 Initially, we wanted to build our own C++ game engine, then use this same 
 engine to create our own Minecraft-style game. Ultimately, this scope was too
  ambitious, and we did not complete the engine nor the game. Development stopped 
- when I shifted my attention to AI and my GPT-2 reproduction extended essay.
+ when I shifted my attention to AI and my then flagship project, a GPT-2 
+ pre-training extended essay.
 
 In hindsight, that was the right decision for me. Given that currently graphics
 programming is no longer the frontier, and frontier AI is more relevant than 
