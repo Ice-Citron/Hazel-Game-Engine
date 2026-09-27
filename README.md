@@ -1,4 +1,4 @@
-# Hazel — C++ Game Engine
+# Hazel: C++ Game Engine
 
 An attempt to build a C++17 3D game engine through The Cherno's Hazel
 series. The code contains the application foundation:
